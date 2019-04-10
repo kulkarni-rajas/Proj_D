@@ -16,6 +16,7 @@ pip install -r requirements.txt
 cd april
 
 python manage.py migrate
+
 python manage.py runserver
 
 use at http://127.0.0.1.8000/
